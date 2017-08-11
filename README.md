@@ -3,7 +3,7 @@ Bootstrap Bundle for Symfony2
 
 ## Current Version
 
-Bootstrap.js 3.3.6
+Bootstrap.js 4.0.0-beta
 
 ## Installation
 
