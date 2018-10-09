@@ -1,4 +1,4 @@
-Bootstrap Bundle for Symfony2
+Bootstrap Bundle for Symfony
 =======================
 
 ## Current Version
